@@ -67,6 +67,7 @@ Full Stack Developer crafting **clean frontend experiences** with Angular + Type
 
 <!-- ===== Publications (card) ===== -->
 <div align="left" style="max-width:900px; margin: 12px auto; padding:18px; border-radius:12px; border:1px solid rgba(120,120,120,0.12);">
+  
 ### 📝 Publication
 <p>
   <a href="https://ieeexplore.ieee.org/document/9972690">
@@ -78,6 +79,7 @@ Full Stack Developer crafting **clean frontend experiences** with Angular + Type
 
 <!-- ===== Connect (card) ===== -->
 <div align="left" style="max-width:900px; margin: 12px auto; padding:18px; border-radius:12px; border:1px solid rgba(120,120,120,0.12);">
+  
 ### 🔗 Connect with me
 <p>
   <a href="https://www.linkedin.com/in/rohan-kumar-basu-2653a4193/">
