@@ -13,9 +13,9 @@
 ### 👋 Hi, I'm **Rohan Kumar Basu**  
 > Frontend-focused Full Stack Developer • Angular & TypeScript • Backend with Node & Go
 
-**🔭 Currently:** Software Developer @ Selegic 
+**🔭 Currently:** Software Developer @ Selegic  
+<br>
 **📍 Location:** Kolkata, India  
-**📫 Email:** <code>&lt;rikrohan@gmail.com&gt;</code>
 
 ---
 
@@ -43,22 +43,19 @@
 
 <!-- Stats / top-langs cards (replace USERNAME) -->
 <p>
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=<Dev-Rik>&show_icons=true&theme=dark&hide_border=true" />
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Dev-Rik&show_icons=true&theme=dark&hide_border=true" />
 </p>
 <p>
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=<Dev-Rik>&layout=compact&theme=dark&hide_border=true" />
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Rik&layout=compact&theme=dark&hide_border=true" />
 </p>
 
 </td>
 </tr>
 </table>
 
----
-
 <!-- ===== About (card) ===== -->
 <div align="left" style="max-width:900px; margin: 12px auto; padding:18px; border-radius:12px; border:1px solid rgba(120,120,120,0.12); background: linear-gradient(180deg, rgba(255,255,255,0.02), rgba(255,255,255,0.00));">
-### ✨ About me
-Full Stack Developer crafting **clean frontend experiences** with Angular + TypeScript and **efficient backend APIs** with Node.js & Go with an emphasis on maintainability, performance, and developer productivity.
+### ✨ About me <br> Full Stack Developer crafting **clean frontend experiences** with Angular + TypeScript and **efficient backend APIs** with Node.js & Go with an emphasis on maintainability, performance, and developer productivity.
 
 **Impact highlights**
 - Built a sandboxed validation rule system for enterprise CRM (dynamic rules & safe evaluation).  
@@ -70,7 +67,8 @@ Full Stack Developer crafting **clean frontend experiences** with Angular + Type
 <div align="left" style="max-width:900px; margin: 12px auto; padding:18px; border-radius:12px; border:1px solid rgba(120,120,120,0.12);">
 ### 📝 Publication
 <p>
-  <a href="<https://ieeexplore.ieee.org/document/9972690>"><img alt="IEEE Xplore" src="https://img.shields.io/badge/IEEE%20Xplore-View%20Paper-00629B?style=for-the-badge&logo=ieee&logoColor=white"></a>
+  <a href="<https://ieeexplore.ieee.org/document/9972690>">
+  <img src="https://img.shields.io/badge/IEEE%20Xplore-View%20Paper-00629B?style=for-the-badge&logo=ieee&logoColor=white"></a>
 </p>
 <sub><b><PAPER_TITLE></b> — <VENUE_AND_YEAR></sub>
 </div>
@@ -79,7 +77,9 @@ Full Stack Developer crafting **clean frontend experiences** with Angular + Type
 <div align="left" style="max-width:900px; margin: 12px auto; padding:18px; border-radius:12px; border:1px solid rgba(120,120,120,0.12);">
 ### 🔗 Connect with me
 <p>
-  <a href="<https://www.linkedin.com/in/rohan-kumar-basu-2653a4193/>"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/rohan-kumar-basu-2653a4193/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn"/>
+  </a>
 </p>
 </div>
 
@@ -87,8 +87,5 @@ Full Stack Developer crafting **clean frontend experiences** with Angular + Type
 <p align="center">
   <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=<Dev-Rik>&theme=dark&hide_border=true" />
 </p>
-
-<!-- ===== Footer ===== -->
-<sub>Made with ❤️ — feel free to fork and customize.</sub>
 
 </div>
