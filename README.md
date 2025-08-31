@@ -13,7 +13,7 @@
 ### 👋 Hi, I'm **Rohan Kumar Basu**  
 > Frontend-focused Full Stack Developer • Angular & TypeScript • Backend with Node & Go
 
-**🔭 Currently:** Software Developer @ Selegic  
+**🔭 Currently:** Self-Employed & Ex-Software Developer @ Selegic  
 <br>
 **📍 Location:** Kolkata, India  
 
