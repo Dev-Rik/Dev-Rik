@@ -55,7 +55,9 @@
 
 <!-- ===== About (card) ===== -->
 <div align="left" style="max-width:900px; margin: 12px auto; padding:18px; border-radius:12px; border:1px solid rgba(120,120,120,0.12); background: linear-gradient(180deg, rgba(255,255,255,0.02), rgba(255,255,255,0.00));">
-### ✨ About me <br> Full Stack Developer crafting **clean frontend experiences** with Angular + TypeScript and **efficient backend APIs** with Node.js & Go with an emphasis on maintainability, performance, and developer productivity.
+### ✨ About me
+
+Full Stack Developer crafting **clean frontend experiences** with Angular + TypeScript and **efficient backend APIs** with Node.js & Go with an emphasis on maintainability, performance, and developer productivity.
 
 **Impact highlights**
 - Built a sandboxed validation rule system for enterprise CRM (dynamic rules & safe evaluation).  
