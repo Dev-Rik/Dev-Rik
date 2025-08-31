@@ -54,8 +54,8 @@
 </table>
 
 <!-- ===== About (card) ===== -->
-<div align="left" style="max-width:900px; margin: 12px auto; padding:18px; border-radius:12px; border:1px solid rgba(120,120,120,0.12); background: linear-gradient(180deg, rgba(255,255,255,0.02), rgba(255,255,255,0.00));">
 ### ✨ About me
+<div align="left" style="max-width:900px; margin: 12px auto; padding:18px; border-radius:12px; border:1px solid rgba(120,120,120,0.12); background: linear-gradient(180deg, rgba(255,255,255,0.02), rgba(255,255,255,0.00));">
 
 Full Stack Developer crafting **clean frontend experiences** with Angular + TypeScript and **efficient backend APIs** with Node.js & Go with an emphasis on maintainability, performance, and developer productivity.
 
@@ -69,10 +69,11 @@ Full Stack Developer crafting **clean frontend experiences** with Angular + Type
 <div align="left" style="max-width:900px; margin: 12px auto; padding:18px; border-radius:12px; border:1px solid rgba(120,120,120,0.12);">
 ### 📝 Publication
 <p>
-  <a href="<https://ieeexplore.ieee.org/document/9972690>">
-  <img src="https://img.shields.io/badge/IEEE%20Xplore-View%20Paper-00629B?style=for-the-badge&logo=ieee&logoColor=white"></a>
+  <a href="https://ieeexplore.ieee.org/document/9972690">
+    <img src="https://img.shields.io/badge/IEEE%20Xplore-View%20Paper-00629B?style=for-the-badge&logo=ieee&logoColor=white" alt="IEEE Xplore"/>
+  </a>
 </p>
-<sub><b><PAPER_TITLE></b> — <VENUE_AND_YEAR></sub>
+<sub><b><LSTM Model based Time Series Modelling and Prognosis of Foreign Exchange Rates against US Dollar></b> — <IEEE 2nd MysuruCon 2022></sub>
 </div>
 
 <!-- ===== Connect (card) ===== -->
