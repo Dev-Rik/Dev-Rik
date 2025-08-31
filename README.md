@@ -74,7 +74,7 @@ Full Stack Developer crafting **clean frontend experiences** with Angular + Type
     <img src="https://img.shields.io/badge/IEEE%20Xplore-View%20Paper-00629B?style=for-the-badge&logo=ieee&logoColor=white" alt="IEEE Xplore"/>
   </a>
 </p>
-<sub><b><LSTM Model based Time Series Modelling and Prognosis of Foreign Exchange Rates against US Dollar></b> — <IEEE 2nd MysuruCon 2022></sub>
+<sub><b>LSTM Model based Time Series Modelling and Prognosis of Foreign Exchange Rates against US Dollar</b> — IEEE 2nd MysuruCon 2022</sub>
 </div>
 
 <!-- ===== Connect (card) ===== -->
