@@ -43,9 +43,6 @@
 
 <!-- Stats / top-langs cards (replace USERNAME) -->
 <p>
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Dev-Rik&show_icons=true&theme=dark&hide_border=true" />
-</p>
-<p>
   <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Rik&layout=compact&theme=dark&hide_border=true" />
 </p>
 
