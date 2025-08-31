@@ -66,19 +66,19 @@ Full Stack Developer crafting **clean frontend experiences** with Angular + Type
 </div>
 
 <!-- ===== Publications (card) ===== -->
-<div align="left" style="max-width:900px; margin: 12px auto; padding:18px; border-radius:12px; border:1px solid rgba(120,120,120,0.12);">
 ### 📝 Publication
+<div align="left" style="max-width:900px; margin: 12px auto; padding:18px; border-radius:12px; border:1px solid rgba(120,120,120,0.12);">
 <p>
   <a href="https://ieeexplore.ieee.org/document/9972690">
     <img src="https://img.shields.io/badge/IEEE%20Xplore-View%20Paper-00629B?style=for-the-badge&logo=ieee&logoColor=white" alt="IEEE Xplore"/>
   </a>
 </p>
-<sub><b><LSTM Model based Time Series Modelling and Prognosis of Foreign Exchange Rates against US Dollar></b> — <IEEE 2nd MysuruCon 2022></sub>
+<sub><b>LSTM Model based Time Series Modelling and Prognosis of Foreign Exchange Rates against US Dollar</b> — IEEE 2nd MysuruCon 2022</sub>
 </div>
 
 <!-- ===== Connect (card) ===== -->
-<div align="left" style="max-width:900px; margin: 12px auto; padding:18px; border-radius:12px; border:1px solid rgba(120,120,120,0.12);">
 ### 🔗 Connect with me
+<div align="left" style="max-width:900px; margin: 12px auto; padding:18px; border-radius:12px; border:1px solid rgba(120,120,120,0.12);">
 <p>
   <a href="https://www.linkedin.com/in/rohan-kumar-basu-2653a4193/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn"/>
