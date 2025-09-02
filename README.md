@@ -87,7 +87,7 @@ Full Stack Developer crafting **clean frontend experiences** with Angular + Type
 
 <!-- ===== Contribution / Streak ===== -->
 <p align="center">
-  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=<Dev-Rik>&theme=dark&hide_border=true" />
+  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=<Dev-Rik>&theme=dark&hide_border=true"/>
 </p>
 
 </div>
